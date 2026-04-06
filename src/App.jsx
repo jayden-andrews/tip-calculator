@@ -1,6 +1,5 @@
 import './App.css'
 import TipCalculator from '../components/TipCalculator'
-import TipOption from '../components/TipOption'
 
 function App() {
 
